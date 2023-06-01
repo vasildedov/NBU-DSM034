@@ -1,0 +1,15 @@
+{
+    "alcohol": 13.75,
+    "malic_acid": 1.73,
+    "ash": 2.41,
+    "alcalinity_of_ash": 16.0,
+    "magnesium": 89.0,
+    "total_phenols": 2.6,
+    "flavanoids": 2.76,
+    "nonflavanoid_phenols": 0.29,
+    "proanthocyanins": 1.81,
+    "color_intensity": 5.6,
+    "hue": 1.15,
+    "od280_od315_of_diluted_wines": 2.9,
+    "proline": 1320.0
+}
