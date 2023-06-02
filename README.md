@@ -23,6 +23,7 @@ curl -X POST -H "Content-Type: application/json" -d "{\"alcohol\": 13.75, \"mali
 ```
 
 Kомандата ползва curl за да прати POST заявка до endpoint-a на FastAPI, http://localhost:5000/predict, като входните данни са в JSON формат. Отговорът на сървъра в случая е: 
+
 "{"linear_regression_prediction":0,"random_forest_prediction":0}"
 
 Алтернативно, prediction_request_json.py има същата функционалност.
