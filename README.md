@@ -57,4 +57,4 @@ minikube service fastapi-deployment
 2. Конфигурира се локалния Docker да може да комуникира с Docker daemon в minikube 
 3. Docker image fastapi-app се зарежда в minikube
 4. Ползва се deployment.yaml файла за да се създаде FastAPI deployment в Minikube
-5. URL-а на FastAPI service се зарежда. Дадения URL може да се ползва накрая на curl кода или с prediction_request_json.py като се смени URL-a
+5. URL-а на FastAPI service се зарежда. Дадения URL може да се ползва накрая на curl кода или с prediction_request_json.py като се смени URL-a, който е записан в prediction_request_json.py
